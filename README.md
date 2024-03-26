@@ -9,7 +9,7 @@ The dataset used in this analysis is named "Nutrical Dataset." It contains infor
 ## Notebooks
 The analysis is performed using Jupyter notebooks.
 
-### Recommendation for McDonald’s ###
+## Recommendation for McDonald’s 
 
 Based on the findings from the data, here are some recommendations on how McDonald's could improve the nutritional profile of their menu:
 
